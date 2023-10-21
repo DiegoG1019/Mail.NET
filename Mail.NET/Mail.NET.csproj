@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<SignAssembly>False</SignAssembly>
+	<RepositoryType>git</RepositoryType>
+	<RepositoryUrl>https://github.com/V-D-Studios/VDStudios.MagicEngine</RepositoryUrl>
+	<PackageTags>mail, email, e-mail, abstraction, mailkit, google, gmail, onedrive, office, outlook</PackageTags>
+	<NeutralLanguage>en</NeutralLanguage>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+	<ErrorReport>prompt</ErrorReport>
+
+	<Title>Mail.NET Abstractions</Title>
+	<Authors>Diego Garcia</Authors>
+	<Copyright>Diego García ️©️ 2023</Copyright>
+	<Version>$(AssemblyVersion)</Version>
+	<FileVersion>$(AssemblyVersion)</FileVersion>
+	<AssemblyVersion>1.0.*</AssemblyVersion>
+  </PropertyGroup>
+
+</Project>
