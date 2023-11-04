@@ -1,6 +1,4 @@
-﻿using static Mail.NET.IMailReader;
-
-namespace Mail.NET;
+﻿namespace Mail.NET;
 
 public interface IMailWriter
 {

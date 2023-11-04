@@ -14,7 +14,7 @@ public sealed class ImapMessage : MailMessage
         Folder = folder;
         Uid = msg;
     }
-    
+
     public static MailMessage FromMimeMessage(IMailFolder folder, MimeMessage message, IMessageSummary summary)
     {
         return new ImapMessage(

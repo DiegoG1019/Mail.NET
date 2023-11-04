@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using MailKit.Search;
+﻿using MailKit.Search;
 using MimeKit;
 
 namespace Mail.NET.MailKit;

@@ -1,10 +1,8 @@
-﻿using System.Diagnostics.CodeAnalysis;
-using System.Runtime.CompilerServices;
+﻿using System.Runtime.CompilerServices;
 using Mail.NET.Utilities;
 using MailKit;
 using MailKit.Net.Imap;
 using MailKit.Search;
-using MimeKit;
 
 namespace Mail.NET.MailKit;
 
